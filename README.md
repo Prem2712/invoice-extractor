@@ -13,6 +13,9 @@ Run the following commands to run the application
 Generate a new API token with full permissions:
 
 ● Go to Hugging Face Tokens
+
 ● Click New token
+
 ● Select "Write" or "Read" (avoid "None")
+
 ● Copy the new token and replace it in your code.
